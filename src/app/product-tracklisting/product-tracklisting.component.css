@@ -3,11 +3,19 @@
  padding-top: 10px;
 }
 
+/* ul {
+    list-style-type: none;
+} */
+
 ul {
-    list-style-type: disc;
+    list-style-type: none;
 }
 
 li {
     display: block;
     line-height: 30px;
+}
+
+button {
+     line-height: 1;
 }
